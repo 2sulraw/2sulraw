@@ -51,8 +51,8 @@ multi-connection downloads in a small native shell.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2sulraw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2sulraw&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2sulraw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2sulraw&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 
 </div>
 
