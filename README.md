@@ -56,7 +56,3 @@ multi-connection downloads in a small native shell.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2sulraw&theme=github_dark" alt="Repositories per language" />
 
 </div>
-
-<div align="center">
-<sub>Building from scratch, one layout pass at a time.</sub>
-</div>
