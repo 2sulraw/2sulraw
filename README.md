@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Little+bit+a+Programmer;Rust+%7C+TypeScript+%7C+Tauri;Building+a+browser+engine+from+scratch" alt="Little bit a Programmer — Rust, TypeScript, Tauri" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Larping+as+a+Programmer;Rust+%7C+TypeScript+%7C+Tauri;Building+a+browser+engine+from+scratch" alt="Larping as a Programmer — Rust, TypeScript, Tauri" />
 
 [![Followers](https://img.shields.io/github/followers/2sulraw?style=flat-square&label=followers&color=58A6FF)](https://github.com/2sulraw?tab=followers)
 [![Repos](https://img.shields.io/badge/repos-6-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/2sulraw?tab=repositories)
